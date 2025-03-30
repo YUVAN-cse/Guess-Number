@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: #09D1C7;
+    color: white;
+    padding-top: 53px;
+    font-family:cursive ;
+}
+
+h2{
+    font-size: 53px;
+}
+
+h3{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+h1{
+    font-size: 44px;
+}
+
+.input{
+    height: 34px;
+    width: 227px;
+    border: none;
+    border-radius: 5px;
+}
+
+.submit{
+    height: 34px;
+    width: 97px;
+    background-color: #213A58;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.previous{
+    padding-top: 45px;
+}
