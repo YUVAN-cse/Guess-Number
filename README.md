@@ -37,7 +37,7 @@
    ```
 2. Navigate to the project folder:
    ```bash
-   cd guess-a-number
+   cd Guess-Number
    ```
 3. Open `index.html` in a web browser.
 
