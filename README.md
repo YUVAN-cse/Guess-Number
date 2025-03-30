@@ -33,7 +33,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/guess-a-number.git
+   https://github.com/YUVAN-cse/Guess-Number.git
    ```
 2. Navigate to the project folder:
    ```bash
